@@ -1,5 +1,5 @@
 # react-product
 
 Commands-
- npm i
- npm run dev
+ * npm i
+ * npm run dev
